@@ -1,0 +1,12 @@
+.dashboard{
+    margin: 0 auto;
+    width: 80%;
+    display:grid;
+    column-gap: 10px;
+    grid-template-columns: 3fr 1fr;
+}
+.hr{
+    width: 50%;
+    height: 1px;
+    border: 1px dotted white;
+}

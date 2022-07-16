@@ -1,0 +1,17 @@
+.car{
+    background-color: #7858A6;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+    width: 30%;
+    height: 450px;
+    float: left;
+    overflow: hidden;
+
+}
+.add-button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    cursor: pointer;
+}
